@@ -83,7 +83,3 @@ class Rectangle:
         """Print a message for every deletion of a Rectangle."""
         type(self).number_of_instances -= 1
         print("Bye rectangle...")
-This file type might be dangerous
-"6-rectangle.py" is a file type that might harm your computer. Only download this file if you understand the risks.
-Cancel
-Download anyway
